@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Target
+  - UnTouchable
+  - Point
+  - SpearHead1
+  - SpearHead2
+  - SpearBody
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Target
+  - Weapon
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 3758884491
+    locked: 0
+  - name: Weapon
+    uniqueID: 3854511027
+    locked: 0
+  - name: Target
+    uniqueID: 1450761495
+    locked: 0
+  - name: ForeGround
+    uniqueID: 2777530251
+    locked: 0
